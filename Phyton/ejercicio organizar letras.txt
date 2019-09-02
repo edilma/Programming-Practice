@@ -1,0 +1,59 @@
+s= 'azcbobobegghakl'
+while s:
+  sentence=''
+  count = 0
+  final = len(s)
+  while s[0]<s[1]:
+    sentence = sentence + s[0]+ s[1]
+    print (sentence)
+    s=s[2:]
+    count +=1
+    if count>final:
+      break
+  print ('Longest substring in alphabetical order is: ' + sentence)
+
+
+
+
+Assume s is a string of lower case characters.
+
+Write a program that prints the longest substring of s in which the letters occur in alphabetical order. For example, if s = 'azcbobobegghakl', then your program should print
+
+Longest substring in alphabetical order is: beggh
+In the case of ties, print the first substring. For example, if s = 'abcbcd', then your program should print
+
+Longest substring in alphabetical order is: abc
+Note: This problem may be challenging. We encourage you to work smart. If you've spent more than a few hours on this problem, we suggest that you move on to a different part of the course. If you have time, come back to this problem after you've had a break and cleared your head.
+
+Trabajando:
+
+s=input('write something ')
+frase =''
+final=len(s)
+
+for i in range (0,len(s)-2):
+  numero = ord(s[0])ord(
+  numero2 = ord(s[1])
+  if (numero2>numero+1):
+    break
+  else:
+    frase= frase + s[0]+s[1]
+    numero=numero2
+  s=s[2:final]
+print ('La frase final es ' , frase)
+
+
+*****Final**********
+s='azcbobobegghakl'
+length = len(s)-1
+frase = ''
+longest=''
+for i in range(0,length):
+  frase = frase + s[i]
+  if i==length or s[i+1]<s[i]: # is the next one wrong
+    print ('frase now',frase)
+    if len(frase)>len(longest):
+      longest = frase
+      print('this is now the longest ')
+    frase=''
+print ('The longest letters are', longest)

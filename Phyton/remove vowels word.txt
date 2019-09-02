@@ -1,0 +1,30 @@
+def anti_vowel(text):
+ for char in text:
+    if char is "a" or "e":
+      text= text.replace("char","")
+    elif char is "i" or "o":
+      text= text.replace("char","")
+    elif char is "u":
+      text= text.replace("u","")
+      print (text)
+    return text
+
+
+anti_vowel("Hey look Words!")
+
+
+
+
+Solution
+
+
+def anti_vowel(text):
+    t=""
+    for c in text:
+        for i in "ieaouIEAOU":
+            if c==i:
+                c=""
+            else:
+                c=c
+        t=t+c
+    return t

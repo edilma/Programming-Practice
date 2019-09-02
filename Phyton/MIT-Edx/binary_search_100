@@ -1,0 +1,5 @@
+n=100
+middle=50
+first=0
+value = int (input('Please think of a number between 0 and 100!' ))
+print (value)
