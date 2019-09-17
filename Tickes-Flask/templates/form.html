@@ -1,0 +1,51 @@
+
+<body>
+    <head>
+        <link rel="stylesheet" href="static/styles/styles.css">
+    </head>
+    <h1>Order Form</h1>
+    <form name="buy_ticket" method="POST">
+        <fieldset>
+            <h2>Member Information</h2>
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" value="" /><br>
+
+            <label for="first_name">First Name</label>
+            <input id = "first_name" name="first_name" type="text" value="" autofocus/> <br>
+
+            <label for = "last_name">Last Name</label>
+            <input id = "last_name" name="last_name" type="text" value="" /><br>
+
+            <label for = "city">City</label>
+            <input id = "city" name="city" type="text" value="" /><br>
+            
+            <label for = "state">State</label>
+            <input id = "state" name="state" type="text" value="" maxlength="2"  /><br>
+
+            <label for = "zip">Zip Code</label>
+            <input id = "zip" name="zip" type="text" value="" placeholder="5 digits" /><br>
+        </fieldset>
+        <fieldset>
+            <h2>Ordering Information</h2>
+            <label for id="membership_type">Order Type</label>
+            <select id="membership_type" name="membership_type">
+                <option value="junior">Junior</option>
+                <option value="regular">Regular</option>
+                <option value="charter">Charter</option>
+            </select><br>
+
+            <label for="date" >Starting Date</label>
+            <input id="date" name="date" type="date" required /><br>
+
+            <label for="tickets">Number of Tickets</label>
+            <input id="tickets" name="tickets" type="number" min="1" max="4" placeholder="From 1 to 4" value="2"/><br>
+        </fieldset>
+        <fieldset id="buttons">
+            <h2>Submit Your Membership</h2>
+            <input id="submit"   type="button" value="Buy Membership" />
+            <input id="reset" type="button" value="Reset Fields" /><br>
+
+        </fieldset>
+    </form>
+</body>
+</html>
