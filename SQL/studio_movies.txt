@@ -1,0 +1,53 @@
+SELECT DISTINCT directors.country FROM directors;
+SELECT DISTINCT directors.first directors.last FROM directors
+WHERE country='France';
+
+SELECT  viewings.date_viewed  FROM viewings
+ORDER BY viewings.date_viewed ASC
+LIMIT 1;
+
+SELECT COUNT(directors.country) FROM directors
+
+SELECT movies.title FROM movies
+JOIN directors 
+WHERE (directors.last ="kurosawa")
+
+SELECT movies.title FROM movies
+JOIN directors ON (directors.director_id = movies.director_id)
+WHERE (directors.last ="kurosawa")
+
+SELECT COUNT(viewings.movie_id) FROM `viewings` 
+JOIN movies ON (movies.movie_id = viewings.movie_id)
+WHERE movies.title LIKE ('%alk%')
+
+SELECT viewings.date_viewed FROM viewings
+ORDER BY viewings.date_viewed DESC
+LIMIT 1
+
+SELECT viewings.viewing_id  FROM viewings
+ORDER BY viewings.date_viewed DESC
+LIMIT 1
+
+SELECT movies.title FROM movies
+JOIN viewings ON (movies.movie_id= viewings.viewing_id)
+ORDER BY viewings.date_viewed ASC
+LIMIT 1
+
+SELECT movies.title, viewings.date_viewed FROM movies
+JOIN viewings ON (movies.movie_id= viewings.viewing_id)
+ORDER BY viewings.date_viewed ASC
+LIMIT 1
+
+SELECT viewers.first, viewers.last , viewings.movie_id FROM viewers
+JOIN viewings ON viewers.viewer_id = viewings.viewer_id
+WHERE viewings.date_viewed = '2017-05-08'
+
+
+*********************
+
+SELECT movies.movie_id , movies.title, viewings.date_viewed FROM movies
+JOIN viewings ON movies.movie_id= viewings.movie_id
+ORDER BY viewings.date_viewed DESC
+LIMIT 1
+
+
