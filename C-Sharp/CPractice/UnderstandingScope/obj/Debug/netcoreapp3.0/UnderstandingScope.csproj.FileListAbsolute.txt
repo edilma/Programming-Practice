@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\bin\Debug\netcoreapp3.0\UnderstandingScope.exe
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\bin\Debug\netcoreapp3.0\UnderstandingScope.deps.json
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\bin\Debug\netcoreapp3.0\UnderstandingScope.runtimeconfig.json
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\bin\Debug\netcoreapp3.0\UnderstandingScope.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\bin\Debug\netcoreapp3.0\UnderstandingScope.dll
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\bin\Debug\netcoreapp3.0\UnderstandingScope.pdb
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\obj\Debug\netcoreapp3.0\UnderstandingScope.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\obj\Debug\netcoreapp3.0\UnderstandingScope.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\obj\Debug\netcoreapp3.0\UnderstandingScope.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\obj\Debug\netcoreapp3.0\UnderstandingScope.dll
+C:\Users\Edilma\Desktop\C#Practice\UnderstandingScope\obj\Debug\netcoreapp3.0\UnderstandingScope.pdb

@@ -1,0 +1,2 @@
+C:\Users\Edilma\Desktop\CPractice\ExceptionTest\obj\Debug\netcoreapp3.0\ExceptionTest.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\ExceptionTest\obj\Debug\netcoreapp3.0\ExceptionTest.AssemblyInfo.cs

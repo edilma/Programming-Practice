@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\bin\Debug\netcoreapp3.0\ConsolePractice.exe
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\bin\Debug\netcoreapp3.0\ConsolePractice.deps.json
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\bin\Debug\netcoreapp3.0\ConsolePractice.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\bin\Debug\netcoreapp3.0\ConsolePractice.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\bin\Debug\netcoreapp3.0\ConsolePractice.dll
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\bin\Debug\netcoreapp3.0\ConsolePractice.pdb
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\obj\Debug\netcoreapp3.0\ConsolePractice.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\obj\Debug\netcoreapp3.0\ConsolePractice.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\obj\Debug\netcoreapp3.0\ConsolePractice.dll
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\obj\Debug\netcoreapp3.0\ConsolePractice.pdb
+C:\Users\Edilma\Desktop\CPractice\ConsolePractice\obj\Debug\netcoreapp3.0\ConsolePractice.csprojAssemblyReference.cache

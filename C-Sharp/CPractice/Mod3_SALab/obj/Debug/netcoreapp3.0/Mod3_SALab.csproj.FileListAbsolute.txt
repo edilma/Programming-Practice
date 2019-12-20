@@ -1,0 +1,10 @@
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\obj\Debug\netcoreapp3.0\Mod3_SALab.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\obj\Debug\netcoreapp3.0\Mod3_SALab.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\bin\Debug\netcoreapp3.0\Mod3_SALab.exe
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\bin\Debug\netcoreapp3.0\Mod3_SALab.deps.json
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\bin\Debug\netcoreapp3.0\Mod3_SALab.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\bin\Debug\netcoreapp3.0\Mod3_SALab.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\bin\Debug\netcoreapp3.0\Mod3_SALab.dll
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\bin\Debug\netcoreapp3.0\Mod3_SALab.pdb
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\obj\Debug\netcoreapp3.0\Mod3_SALab.dll
+C:\Users\Edilma\Desktop\CPractice\Mod3_SALab\obj\Debug\netcoreapp3.0\Mod3_SALab.pdb

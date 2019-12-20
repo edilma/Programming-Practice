@@ -1,0 +1,10 @@
+C:\Users\Edilma\Desktop\CPractice\LinqArray\bin\Debug\netcoreapp3.0\LinqArray.exe
+C:\Users\Edilma\Desktop\CPractice\LinqArray\bin\Debug\netcoreapp3.0\LinqArray.deps.json
+C:\Users\Edilma\Desktop\CPractice\LinqArray\bin\Debug\netcoreapp3.0\LinqArray.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\LinqArray\bin\Debug\netcoreapp3.0\LinqArray.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\LinqArray\bin\Debug\netcoreapp3.0\LinqArray.dll
+C:\Users\Edilma\Desktop\CPractice\LinqArray\bin\Debug\netcoreapp3.0\LinqArray.pdb
+C:\Users\Edilma\Desktop\CPractice\LinqArray\obj\Debug\netcoreapp3.0\LinqArray.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\LinqArray\obj\Debug\netcoreapp3.0\LinqArray.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\LinqArray\obj\Debug\netcoreapp3.0\LinqArray.dll
+C:\Users\Edilma\Desktop\CPractice\LinqArray\obj\Debug\netcoreapp3.0\LinqArray.pdb

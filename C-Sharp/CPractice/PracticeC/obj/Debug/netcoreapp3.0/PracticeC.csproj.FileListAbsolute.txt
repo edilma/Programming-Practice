@@ -1,0 +1,14 @@
+C:\Users\Edilma\Desktop\Programming Practice\C#\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\CPractice\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\PracticeC\bin\Debug\netcoreapp3.0\PracticeC.exe
+C:\Users\Edilma\Desktop\CPractice\PracticeC\bin\Debug\netcoreapp3.0\PracticeC.deps.json
+C:\Users\Edilma\Desktop\CPractice\PracticeC\bin\Debug\netcoreapp3.0\PracticeC.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\PracticeC\bin\Debug\netcoreapp3.0\PracticeC.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\PracticeC\bin\Debug\netcoreapp3.0\PracticeC.dll
+C:\Users\Edilma\Desktop\CPractice\PracticeC\bin\Debug\netcoreapp3.0\PracticeC.pdb
+C:\Users\Edilma\Desktop\CPractice\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.dll
+C:\Users\Edilma\Desktop\CPractice\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.pdb

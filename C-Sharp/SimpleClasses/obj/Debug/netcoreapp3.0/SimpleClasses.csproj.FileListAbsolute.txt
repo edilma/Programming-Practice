@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\bin\Debug\netcoreapp3.0\SimpleClasses.exe
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\bin\Debug\netcoreapp3.0\SimpleClasses.deps.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\bin\Debug\netcoreapp3.0\SimpleClasses.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\bin\Debug\netcoreapp3.0\SimpleClasses.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\bin\Debug\netcoreapp3.0\SimpleClasses.dll
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\bin\Debug\netcoreapp3.0\SimpleClasses.pdb
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\obj\Debug\netcoreapp3.0\SimpleClasses.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\obj\Debug\netcoreapp3.0\SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\obj\Debug\netcoreapp3.0\SimpleClasses.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\obj\Debug\netcoreapp3.0\SimpleClasses.dll
+C:\Users\Edilma\Desktop\Programming Practice\C#\SimpleClasses\obj\Debug\netcoreapp3.0\SimpleClasses.pdb

@@ -1,0 +1,10 @@
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\bin\Debug\netcoreapp3.0\DatesAndTimes.exe
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\bin\Debug\netcoreapp3.0\DatesAndTimes.deps.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\bin\Debug\netcoreapp3.0\DatesAndTimes.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\bin\Debug\netcoreapp3.0\DatesAndTimes.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\bin\Debug\netcoreapp3.0\DatesAndTimes.dll
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\bin\Debug\netcoreapp3.0\DatesAndTimes.pdb
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\obj\Debug\netcoreapp3.0\DatesAndTimes.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\obj\Debug\netcoreapp3.0\DatesAndTimes.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\obj\Debug\netcoreapp3.0\DatesAndTimes.dll
+C:\Users\Edilma\Desktop\Programming Practice\C#\DatesAndTimes\obj\Debug\netcoreapp3.0\DatesAndTimes.pdb

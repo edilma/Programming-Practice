@@ -1,1 +1,0 @@
-xcopy "exercises\*" "C:\html5_css3_2\exercises\*" /E

@@ -1,0 +1,10 @@
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\bin\Debug\netcoreapp3.0\CreateChessBoard.exe
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\bin\Debug\netcoreapp3.0\CreateChessBoard.deps.json
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\bin\Debug\netcoreapp3.0\CreateChessBoard.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\bin\Debug\netcoreapp3.0\CreateChessBoard.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\bin\Debug\netcoreapp3.0\CreateChessBoard.dll
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\bin\Debug\netcoreapp3.0\CreateChessBoard.pdb
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\obj\Debug\netcoreapp3.0\CreateChessBoard.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\obj\Debug\netcoreapp3.0\CreateChessBoard.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\obj\Debug\netcoreapp3.0\CreateChessBoard.dll
+C:\Users\Edilma\Desktop\CPractice\CreateChessBoard\obj\Debug\netcoreapp3.0\CreateChessBoard.pdb

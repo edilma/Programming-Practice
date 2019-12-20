@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\obj\Debug\netcoreapp3.0\ObjectLifetime.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\obj\Debug\netcoreapp3.0\ObjectLifetime.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\obj\Debug\netcoreapp3.0\ObjectLifetime.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\bin\Debug\netcoreapp3.0\ObjectLifetime.exe
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\bin\Debug\netcoreapp3.0\ObjectLifetime.deps.json
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\bin\Debug\netcoreapp3.0\ObjectLifetime.runtimeconfig.json
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\bin\Debug\netcoreapp3.0\ObjectLifetime.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\bin\Debug\netcoreapp3.0\ObjectLifetime.dll
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\bin\Debug\netcoreapp3.0\ObjectLifetime.pdb
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\obj\Debug\netcoreapp3.0\ObjectLifetime.dll
+C:\Users\Edilma\Desktop\C#Practice\ObjectLifetime\obj\Debug\netcoreapp3.0\ObjectLifetime.pdb

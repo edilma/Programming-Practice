@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\obj\Debug\netcoreapp3.0\ArrayFilterStrings.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\obj\Debug\netcoreapp3.0\ArrayFilterStrings.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\obj\Debug\netcoreapp3.0\ArrayFilterStrings.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\bin\Debug\netcoreapp3.0\ArrayFilterStrings.exe
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\bin\Debug\netcoreapp3.0\ArrayFilterStrings.deps.json
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\bin\Debug\netcoreapp3.0\ArrayFilterStrings.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\bin\Debug\netcoreapp3.0\ArrayFilterStrings.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\bin\Debug\netcoreapp3.0\ArrayFilterStrings.dll
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\bin\Debug\netcoreapp3.0\ArrayFilterStrings.pdb
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\obj\Debug\netcoreapp3.0\ArrayFilterStrings.dll
+C:\Users\Edilma\Desktop\CPractice\ArrayFilterStrings\obj\Debug\netcoreapp3.0\ArrayFilterStrings.pdb

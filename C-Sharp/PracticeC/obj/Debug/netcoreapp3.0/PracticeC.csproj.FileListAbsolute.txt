@@ -1,0 +1,3 @@
+C:\Users\Edilma\Desktop\Programming Practice\C#\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\PracticeC\obj\Debug\netcoreapp3.0\PracticeC.AssemblyInfo.cs

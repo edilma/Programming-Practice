@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\CPractice\decodeBits\bin\Debug\netcoreapp3.0\decodeBits.exe
+C:\Users\Edilma\Desktop\CPractice\decodeBits\bin\Debug\netcoreapp3.0\decodeBits.deps.json
+C:\Users\Edilma\Desktop\CPractice\decodeBits\bin\Debug\netcoreapp3.0\decodeBits.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\decodeBits\bin\Debug\netcoreapp3.0\decodeBits.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\decodeBits\bin\Debug\netcoreapp3.0\decodeBits.dll
+C:\Users\Edilma\Desktop\CPractice\decodeBits\bin\Debug\netcoreapp3.0\decodeBits.pdb
+C:\Users\Edilma\Desktop\CPractice\decodeBits\obj\Debug\netcoreapp3.0\decodeBits.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\CPractice\decodeBits\obj\Debug\netcoreapp3.0\decodeBits.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\decodeBits\obj\Debug\netcoreapp3.0\decodeBits.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\decodeBits\obj\Debug\netcoreapp3.0\decodeBits.dll
+C:\Users\Edilma\Desktop\CPractice\decodeBits\obj\Debug\netcoreapp3.0\decodeBits.pdb

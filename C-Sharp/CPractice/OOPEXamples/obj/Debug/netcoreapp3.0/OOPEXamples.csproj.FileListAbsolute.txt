@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\bin\Debug\netcoreapp3.0\OOPEXamples.exe
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\bin\Debug\netcoreapp3.0\OOPEXamples.deps.json
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\bin\Debug\netcoreapp3.0\OOPEXamples.runtimeconfig.json
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\bin\Debug\netcoreapp3.0\OOPEXamples.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\bin\Debug\netcoreapp3.0\OOPEXamples.dll
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\bin\Debug\netcoreapp3.0\OOPEXamples.pdb
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\obj\Debug\netcoreapp3.0\OOPEXamples.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\obj\Debug\netcoreapp3.0\OOPEXamples.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\obj\Debug\netcoreapp3.0\OOPEXamples.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\obj\Debug\netcoreapp3.0\OOPEXamples.dll
+C:\Users\Edilma\Desktop\C#Practice\OOPEXamples\obj\Debug\netcoreapp3.0\OOPEXamples.pdb

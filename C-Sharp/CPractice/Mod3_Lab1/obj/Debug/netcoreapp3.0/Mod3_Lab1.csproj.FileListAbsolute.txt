@@ -1,0 +1,10 @@
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\bin\Debug\netcoreapp3.0\Mod3_Lab1.exe
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\bin\Debug\netcoreapp3.0\Mod3_Lab1.deps.json
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\bin\Debug\netcoreapp3.0\Mod3_Lab1.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\bin\Debug\netcoreapp3.0\Mod3_Lab1.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\bin\Debug\netcoreapp3.0\Mod3_Lab1.dll
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\bin\Debug\netcoreapp3.0\Mod3_Lab1.pdb
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\obj\Debug\netcoreapp3.0\Mod3_Lab1.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\obj\Debug\netcoreapp3.0\Mod3_Lab1.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\obj\Debug\netcoreapp3.0\Mod3_Lab1.dll
+C:\Users\Edilma\Desktop\CPractice\Mod3_Lab1\obj\Debug\netcoreapp3.0\Mod3_Lab1.pdb

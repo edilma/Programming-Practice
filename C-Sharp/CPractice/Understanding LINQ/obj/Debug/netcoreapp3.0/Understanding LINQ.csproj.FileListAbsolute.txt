@@ -1,0 +1,22 @@
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.exe
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.deps.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.dll
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.pdb
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.dll
+C:\Users\Edilma\Desktop\Programming Practice\C#\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.pdb
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.exe
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.deps.json
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.runtimeconfig.json
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.dll
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\bin\Debug\netcoreapp3.0\Understanding LINQ.pdb
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.dll
+C:\Users\Edilma\Desktop\C#Practice\Understanding LINQ\obj\Debug\netcoreapp3.0\Understanding LINQ.pdb

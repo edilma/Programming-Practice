@@ -1,0 +1,10 @@
+C:\Users\Edilma\Desktop\CPractice\linq_practice\bin\Debug\netcoreapp3.0\linq_practice.exe
+C:\Users\Edilma\Desktop\CPractice\linq_practice\bin\Debug\netcoreapp3.0\linq_practice.deps.json
+C:\Users\Edilma\Desktop\CPractice\linq_practice\bin\Debug\netcoreapp3.0\linq_practice.runtimeconfig.json
+C:\Users\Edilma\Desktop\CPractice\linq_practice\bin\Debug\netcoreapp3.0\linq_practice.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\CPractice\linq_practice\bin\Debug\netcoreapp3.0\linq_practice.dll
+C:\Users\Edilma\Desktop\CPractice\linq_practice\bin\Debug\netcoreapp3.0\linq_practice.pdb
+C:\Users\Edilma\Desktop\CPractice\linq_practice\obj\Debug\netcoreapp3.0\linq_practice.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\CPractice\linq_practice\obj\Debug\netcoreapp3.0\linq_practice.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\CPractice\linq_practice\obj\Debug\netcoreapp3.0\linq_practice.dll
+C:\Users\Edilma\Desktop\CPractice\linq_practice\obj\Debug\netcoreapp3.0\linq_practice.pdb
