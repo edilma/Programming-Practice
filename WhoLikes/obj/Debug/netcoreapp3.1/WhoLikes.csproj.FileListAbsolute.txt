@@ -1,0 +1,10 @@
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\obj\Debug\netcoreapp3.1\WhoLikes.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\obj\Debug\netcoreapp3.1\WhoLikes.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\bin\Debug\netcoreapp3.1\WhoLikes.exe
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\bin\Debug\netcoreapp3.1\WhoLikes.deps.json
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\bin\Debug\netcoreapp3.1\WhoLikes.runtimeconfig.json
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\bin\Debug\netcoreapp3.1\WhoLikes.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\bin\Debug\netcoreapp3.1\WhoLikes.dll
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\bin\Debug\netcoreapp3.1\WhoLikes.pdb
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\obj\Debug\netcoreapp3.1\WhoLikes.dll
+C:\Users\Edilma\Desktop\C#Practice\WhoLikes\obj\Debug\netcoreapp3.1\WhoLikes.pdb
