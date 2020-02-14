@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\bin\Debug\netcoreapp3.1\ListFiltering.exe
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\bin\Debug\netcoreapp3.1\ListFiltering.deps.json
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\bin\Debug\netcoreapp3.1\ListFiltering.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\bin\Debug\netcoreapp3.1\ListFiltering.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\bin\Debug\netcoreapp3.1\ListFiltering.dll
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\bin\Debug\netcoreapp3.1\ListFiltering.pdb
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\obj\Debug\netcoreapp3.1\ListFiltering.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\obj\Debug\netcoreapp3.1\ListFiltering.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\obj\Debug\netcoreapp3.1\ListFiltering.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\obj\Debug\netcoreapp3.1\ListFiltering.dll
+C:\Users\Edilma\Desktop\Programming-Practice\ListFiltering\obj\Debug\netcoreapp3.1\ListFiltering.pdb

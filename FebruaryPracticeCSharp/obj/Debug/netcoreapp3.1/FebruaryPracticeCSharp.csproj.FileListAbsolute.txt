@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\bin\Debug\netcoreapp3.1\FebruaryPracticeCSharp.exe
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\bin\Debug\netcoreapp3.1\FebruaryPracticeCSharp.deps.json
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\bin\Debug\netcoreapp3.1\FebruaryPracticeCSharp.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\bin\Debug\netcoreapp3.1\FebruaryPracticeCSharp.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\bin\Debug\netcoreapp3.1\FebruaryPracticeCSharp.dll
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\bin\Debug\netcoreapp3.1\FebruaryPracticeCSharp.pdb
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\obj\Debug\netcoreapp3.1\FebruaryPracticeCSharp.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\obj\Debug\netcoreapp3.1\FebruaryPracticeCSharp.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\obj\Debug\netcoreapp3.1\FebruaryPracticeCSharp.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\obj\Debug\netcoreapp3.1\FebruaryPracticeCSharp.dll
+C:\Users\Edilma\Desktop\Programming-Practice\FebruaryPracticeCSharp\obj\Debug\netcoreapp3.1\FebruaryPracticeCSharp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\obj\Debug\netcoreapp3.1\stringChallenge.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\obj\Debug\netcoreapp3.1\stringChallenge.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\bin\Debug\netcoreapp3.1\stringChallenge.exe
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\bin\Debug\netcoreapp3.1\stringChallenge.deps.json
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\bin\Debug\netcoreapp3.1\stringChallenge.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\bin\Debug\netcoreapp3.1\stringChallenge.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\bin\Debug\netcoreapp3.1\stringChallenge.dll
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\bin\Debug\netcoreapp3.1\stringChallenge.pdb
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\obj\Debug\netcoreapp3.1\stringChallenge.dll
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\obj\Debug\netcoreapp3.1\stringChallenge.pdb
+C:\Users\Edilma\Desktop\Programming-Practice\stringChallenge\obj\Debug\netcoreapp3.1\stringChallenge.csprojAssemblyReference.cache

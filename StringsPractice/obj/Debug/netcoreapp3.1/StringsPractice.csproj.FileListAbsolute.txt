@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.exe
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.deps.json
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.dll
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.pdb
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.dll
+C:\Users\Edilma\Desktop\Programming-Practice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.pdb
