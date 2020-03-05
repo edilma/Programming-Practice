@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\obj\Debug\netcoreapp3.1\UProgram.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\obj\Debug\netcoreapp3.1\UProgram.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\obj\Debug\netcoreapp3.1\UProgram.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\bin\Debug\netcoreapp3.1\UProgram.exe
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\bin\Debug\netcoreapp3.1\UProgram.deps.json
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\bin\Debug\netcoreapp3.1\UProgram.runtimeconfig.json
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\bin\Debug\netcoreapp3.1\UProgram.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\bin\Debug\netcoreapp3.1\UProgram.dll
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\bin\Debug\netcoreapp3.1\UProgram.pdb
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\obj\Debug\netcoreapp3.1\UProgram.dll
+C:\Users\Edilma\Desktop\Programming-Practice\UProgram\obj\Debug\netcoreapp3.1\UProgram.pdb
