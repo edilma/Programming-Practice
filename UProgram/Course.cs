@@ -7,15 +7,26 @@ namespace UProgram
    
     class Course
     {
+        protected string _courseID;
         protected string _courseName;
         protected int _credits;
-        public enum CourseRequirement
+        public enum CourseType
         {
             Required, 
             Elective
         }
+        
+        public List<Student> Roaster = new List<Student>();
+        public int CourseSize 
+        {
+            get
+            {
+                return Roaster.Count;
+            }
+        }
 
-        public CourseRequirement courseRequirement { get; private set; }
+
+        public CourseType courseType { get; private set; }
        
         
         public string CourseName 
@@ -29,6 +40,20 @@ namespace UProgram
                 _courseName = value; 
             } 
         }
+
+        public string CourseID
+        {
+            get 
+            {
+                return _courseID;
+            }
+            private set 
+            {
+                _courseID = value;
+            }
+        }
+
+
         public int Credits
         {
             get
@@ -40,11 +65,21 @@ namespace UProgram
                 _credits = value;
             }
         }
-        public Course (string courseName, int credits, CourseRequirement courseRequirement)
+        public List<Student> getRoaster() 
         {
+            return Roaster;
+        }
+
+        
+
+
+
+        public Course (string courseID, string courseName, int credits, CourseType courseType)
+        {
+            _courseID = courseID;
             _courseName = courseName;
             _credits = credits;
-            this.courseRequirement = courseRequirement;
+            this.courseType = courseType;
 
         }
         public Course() { }
